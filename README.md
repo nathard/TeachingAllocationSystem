@@ -12,7 +12,7 @@ The allocation is reviewed by the teaching administrator any conflicts that are 
 
 Features:
 ---------
-Web 2.0
+Web 2.0  
 CMS functionality
 
 
